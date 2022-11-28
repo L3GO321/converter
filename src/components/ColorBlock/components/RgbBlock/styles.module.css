@@ -1,0 +1,9 @@
+.wrapper {
+  position: relative;
+  width: 180px;
+  padding: 10px;
+  text-align: center;
+  font-size: 16px;
+  background-color: rgba(0, 0, 0, 0.2);
+  color: #fff;
+}
